@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kafka-hello-world", "kafka-hello-world\kafka-hello-world.csproj", "{254E6AE4-1966-4EE2-A3B9-961F219846B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kafka-producer", "kafka-hello-world\kafka-producer.csproj", "{254E6AE4-1966-4EE2-A3B9-961F219846B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kafka_Client", "Kafka_Client\Kafka_Client.csproj", "{23B2AD9F-97C0-474A-B405-6F6E07C42839}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kafka_Client", "Kafka_Client\Kafka_Client.csproj", "{23B2AD9F-97C0-474A-B405-6F6E07C42839}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
